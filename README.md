@@ -1,1 +1,1 @@
-# lambda_samples
+# java8 samples
